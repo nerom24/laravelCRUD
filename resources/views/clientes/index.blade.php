@@ -11,7 +11,7 @@
       </p> --}}
 
       <p>
-        <a href="{{ url('clientes.create') }}">Registrar Cliente</a>
+        <a href="{{ url('clientes.create') }}">Nuevo Cliente</a>
       </p>
 
 
